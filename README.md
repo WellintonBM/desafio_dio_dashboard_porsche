@@ -113,7 +113,7 @@ Foi utilizado o **Claude com Canvas**, na versão **Free**.
 
 > O endereço da dashboard publicada.
 
-👉 **[Abrir a dashboard]([https://claude.ai/artifact/7BbtiN5qGoeffjeoRmY7S7](https://wellintonbm.github.io/desafio_dio_dashboard_porsche/))**
+👉 **[Abrir a dashboard]([https://claude.ai/artifact/7BbtiN5qGoeffjeoRmY7S7](https://wellintonbm.github.io/desafio_dio_dashboard_porsche))**
 
 ---
 
